@@ -10,8 +10,7 @@ public class GoodsApp {
 
 		Goods[] goods = new Goods[COUNT_GOODS];
 
-		// 상품 입력
-
+		// 상품 입력ㄴ
 		// 상품 출
 		
 		// 자원정리
