@@ -5,10 +5,10 @@
     <artifactId>javastudy</artifactId>
     <version>0.0.1-SNAPSHOT</version>
   </parent>
-  <artifactId>practice01</artifactId>
+  <artifactId>practice02</artifactId>
   
      <build>
       <sourceDirectory>src/main/java</sourceDirectory>
-      <finalName>practice01</finalName>
+      <finalName>practice02</finalName>
    </build>  
 </project>
