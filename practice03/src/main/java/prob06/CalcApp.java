@@ -8,7 +8,6 @@ public class CalcApp {
 		Scanner scanner = new Scanner(System.in);
 		
 		while( true ) {
-			/*  코드를 완성 합니다 */
 			System.out.print( ">> " );
 			String expression = scanner.nextLine();
 			
