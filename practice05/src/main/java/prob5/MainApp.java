@@ -10,7 +10,8 @@ public class MainApp {
 			stack.push("!!!");
 			stack.push("java");
 			stack.push(".");
-
+			
+			// stack -> first in last out
 			while (stack.isEmpty() == false) {
 				String s = stack.pop();
 				System.out.println( s );

@@ -6,9 +6,4 @@
     <version>0.0.1-SNAPSHOT</version>
   </parent>
   <artifactId>practice02</artifactId>
-  
-     <build>
-      <sourceDirectory>src/main/java</sourceDirectory>
-      <finalName>practice02</finalName>
-   </build>  
 </project>
